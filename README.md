@@ -31,7 +31,7 @@ The dataset comes from [Kaggle’s Titanic competition](https://www.kaggle.com/c
 
 ## 📷 Sample Visualizations  
 *(Add images of your graphs here! Example below:)*  
-![Survival Rate by Gender](images/survival_gender.png)  
+![Survival Rate by Gender](imsample.JPG)  
 
 ## 📩 Contact  
 If you have any questions, feel free to reach out! 😊  
