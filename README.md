@@ -5,10 +5,18 @@ This project explores the famous **Titanic dataset** using Python. The goal is t
 
 ## 🗂 Dataset  
 The dataset comes from [Kaggle’s Titanic competition](https://www.kaggle.com/c/titanic). It includes details like:  
-- Passenger age  
-- Gender  
-- Ticket class  
-- Survival status  
+-  PassengerId
+-  Survived
+-  Pclass
+-  Name
+-  Sex
+-  Age
+-  SibSp
+-  Parch
+-  Ticket
+-  Fare
+-  Cabin
+-  Embarked	 
 
 ## 🔧 Tools & Libraries Used  
 - **Pandas** – for data cleaning and analysis  
