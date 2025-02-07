@@ -1,4 +1,4 @@
-#Titanic Data Analysis & Visualization
+Titanic Data Analysis & Visualization
 ##📌 Project Overview
 This project explores the famous Titanic dataset using Python. The goal is to find patterns in the data and understand which factors affected passenger survival.
 
