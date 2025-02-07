@@ -28,10 +28,7 @@ The dataset comes from [Kaggle’s Titanic competition](https://www.kaggle.com/c
 ✔ Explored survival rates based on gender, class, and age  
 ✔ Created bar charts, pie charts, and histograms to show insights  
 ✔ Found that women and first-class passengers had higher survival rates  
-
-## 📷 Sample Visualizations  
-*(Add images of your graphs here! Example below:)*  
-![Survival Rate by Gender](imsample.JPG)  
+  
 
 ## 📩 Contact  
 If you have any questions, feel free to reach out! 😊  
